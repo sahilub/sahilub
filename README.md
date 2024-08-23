@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+ 
 <h1 align="center">Hi 👋, I'm Sahil Ubale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[S:\Github\image123](https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=740&t=st=1724440465~exp=1724441065~hmac=d56cfa577f81021de8b950a0d658f58426f7a8c4c67937de29a4a01935f917ab)">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg">
 - 💬 Ask me about **django , .Net**
 
 - 📫 How to reach me **sahilubale1052003@gmail.com**
